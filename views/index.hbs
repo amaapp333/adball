@@ -1,0 +1,10 @@
+{{{ story.content._editable }}}
+<div class="container py-8">
+  {{#each story.content.body}}
+    {{> (lookup . 'component') }}
+  {{/each}}
+</div>
+
+{{#section 'script'}}
+  {{{ story.content.amp_scripts }}}
+{{/section}}
