@@ -15,7 +15,7 @@ Then run postcss build & node serve using this command:
 $ yarn start
 ```
 
-Herokuapp: https://amp-storyblok.herokuapp.com/
+Vercel App: https://adball.vercel.app
 
 ## Deploy to Herokuapp
 
