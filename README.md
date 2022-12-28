@@ -1,4 +1,4 @@
-# Amp-Storyblok
+# Storyblok
 
 Node app with AMP &amp; Storyblok
 
