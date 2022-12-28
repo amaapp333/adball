@@ -1,4 +1,5 @@
-# amp-storyblok
+# Amp-Storyblok
+
 Node app with AMP &amp; Storyblok
 
 ## Install
